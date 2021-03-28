@@ -1,1 +1,1 @@
-Go Visual code testing
+Playing around with Go and Visual studio code
